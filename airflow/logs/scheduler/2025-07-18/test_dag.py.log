@@ -1432,3 +1432,15 @@
 [2025-07-18T01:43:19.813+0000] {logging_mixin.py:188} INFO - [2025-07-18T01:43:19.812+0000] {dagbag.py:325} INFO - File /opt/airflow/dags/test_dag.py assumed to contain no DAGs. Skipping.
 [2025-07-18T01:43:19.813+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/test_dag.py
 [2025-07-18T01:43:19.829+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/test_dag.py took 0.022 seconds
+[2025-07-18T01:43:50.073+0000] {processor.py:161} INFO - Started process (PID=11829) to work on /opt/airflow/dags/test_dag.py
+[2025-07-18T01:43:50.074+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/test_dag.py for tasks to queue
+[2025-07-18T01:43:50.075+0000] {logging_mixin.py:188} INFO - [2025-07-18T01:43:50.075+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/test_dag.py
+[2025-07-18T01:43:50.076+0000] {logging_mixin.py:188} INFO - [2025-07-18T01:43:50.076+0000] {dagbag.py:325} INFO - File /opt/airflow/dags/test_dag.py assumed to contain no DAGs. Skipping.
+[2025-07-18T01:43:50.076+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/test_dag.py
+[2025-07-18T01:43:50.087+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/test_dag.py took 0.016 seconds
+[2025-07-18T01:44:20.338+0000] {processor.py:161} INFO - Started process (PID=11839) to work on /opt/airflow/dags/test_dag.py
+[2025-07-18T01:44:20.339+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/test_dag.py for tasks to queue
+[2025-07-18T01:44:20.340+0000] {logging_mixin.py:188} INFO - [2025-07-18T01:44:20.340+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/test_dag.py
+[2025-07-18T01:44:20.341+0000] {logging_mixin.py:188} INFO - [2025-07-18T01:44:20.341+0000] {dagbag.py:325} INFO - File /opt/airflow/dags/test_dag.py assumed to contain no DAGs. Skipping.
+[2025-07-18T01:44:20.342+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/test_dag.py
+[2025-07-18T01:44:20.355+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/test_dag.py took 0.020 seconds

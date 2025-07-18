@@ -1439,3 +1439,15 @@
 [2025-07-18T01:43:19.817+0000] {logging_mixin.py:188} INFO - [2025-07-18T01:43:19.817+0000] {dagbag.py:325} INFO - File /opt/airflow/dags/controller_dag.py assumed to contain no DAGs. Skipping.
 [2025-07-18T01:43:19.817+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/controller_dag.py
 [2025-07-18T01:43:19.829+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/controller_dag.py took 0.020 seconds
+[2025-07-18T01:43:50.073+0000] {processor.py:161} INFO - Started process (PID=11832) to work on /opt/airflow/dags/controller_dag.py
+[2025-07-18T01:43:50.074+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/controller_dag.py for tasks to queue
+[2025-07-18T01:43:50.074+0000] {logging_mixin.py:188} INFO - [2025-07-18T01:43:50.074+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/controller_dag.py
+[2025-07-18T01:43:50.076+0000] {logging_mixin.py:188} INFO - [2025-07-18T01:43:50.076+0000] {dagbag.py:325} INFO - File /opt/airflow/dags/controller_dag.py assumed to contain no DAGs. Skipping.
+[2025-07-18T01:43:50.076+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/controller_dag.py
+[2025-07-18T01:43:50.086+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/controller_dag.py took 0.015 seconds
+[2025-07-18T01:44:20.340+0000] {processor.py:161} INFO - Started process (PID=11842) to work on /opt/airflow/dags/controller_dag.py
+[2025-07-18T01:44:20.340+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/controller_dag.py for tasks to queue
+[2025-07-18T01:44:20.341+0000] {logging_mixin.py:188} INFO - [2025-07-18T01:44:20.341+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/controller_dag.py
+[2025-07-18T01:44:20.345+0000] {logging_mixin.py:188} INFO - [2025-07-18T01:44:20.345+0000] {dagbag.py:325} INFO - File /opt/airflow/dags/controller_dag.py assumed to contain no DAGs. Skipping.
+[2025-07-18T01:44:20.346+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/controller_dag.py
+[2025-07-18T01:44:20.358+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/controller_dag.py took 0.021 seconds

@@ -2,7 +2,7 @@
 
 ## Application 실행
 ./gradle clean build bootRun
-cf) http://localhost:8080/swagger-ui/index.html
+cf) http://localhost:8080/api/swagger-ui/index.html
 
 ## Airflow 실행
 cd airflow 
